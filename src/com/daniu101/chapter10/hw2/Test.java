@@ -1,4 +1,4 @@
-package chapter10.two;
+package com.daniu101.chapter10.hw2;
 
 public class Test {
     public static void main(String[] args) {

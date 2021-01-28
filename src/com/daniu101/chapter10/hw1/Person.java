@@ -1,4 +1,4 @@
-package chapter10.one;
+package com.daniu101.chapter10.hw1;
 
 public class Person {
     public String name;
