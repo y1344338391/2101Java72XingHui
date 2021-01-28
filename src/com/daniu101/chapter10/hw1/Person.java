@@ -22,10 +22,10 @@ public class Person {
     }
 
     public void eat(){
-        System.out.println("吃饭");
+        System.out.println("吃饭。");
     }
     public void run(){
-        System.out.println("跑步");
+        System.out.println("跑步。");
     }
 
     @Override
