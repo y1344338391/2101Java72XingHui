@@ -7,7 +7,7 @@ public class Person {
 
     public void setHeight(double height) {
         if(height < 0){
-            System.out.println("身高没有负数");
+            System.out.println("身高没有负数.");
         }else {
             this.height = height;
         }
@@ -15,7 +15,7 @@ public class Person {
 
     public void setAge(int age) {
         if(age < 0){
-            System.out.println("年龄不能小于0");
+            System.out.println("年龄不能小于0.");
         }else {
             this.age =age;
         }
